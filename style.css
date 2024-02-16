@@ -20,11 +20,7 @@ a {
 }
 
 #left {
-    left: 50;
-}
-
-#right {
-    left: 50;
+    left: 50%;
 }
 
 #header {
