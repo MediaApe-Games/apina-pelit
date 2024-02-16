@@ -3,3 +3,11 @@
 ![FINLAND!](./img/suomi.jpg)
 
 ## MediaApe's latest and greatest public invention
+
+# Features
+
+- [x] Games
+- [x] Quotes
+- [x] Basil Num
+- [ ] Accounts
+- [ ] Easter Eggs
