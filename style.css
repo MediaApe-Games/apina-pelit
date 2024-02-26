@@ -15,6 +15,23 @@ a {
     font-size: 13.5pt;
 }
 
+#signup {
+    text-align: center;
+    width: 50%;
+    border-radius: 25px;
+    border-color: #fff;
+    background-color: #0f0f0f;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+input {
+    font-family: unifont;
+    font-size: 13.5pt;
+    background-color: #fef;
+}
+
 #topbar {
     top: auto;
 }
