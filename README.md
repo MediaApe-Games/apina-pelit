@@ -10,4 +10,4 @@
 - [x] Quotes
 - [x] Basil Num
 - [ ] Accounts
-- [ ] Easter Eggs
+- [x] Easter Eggs
