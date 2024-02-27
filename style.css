@@ -20,6 +20,17 @@ a {
     width: 50%;
     border-radius: 25px;
     border-color: #fff;
+    background-color: #222222;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+#box {
+    text-align: center;
+    width: 50%;
+    border-radius: 25px;
+    border-color: #fff;
     background-color: #0f0f0f;
     margin: auto;
     padding: 10px;
