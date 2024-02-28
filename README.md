@@ -9,5 +9,5 @@
 - [x] Games
 - [x] Quotes
 - [x] Basil Num
-- [ ] Accounts
+- [x] Accounts
 - [x] Easter Eggs
