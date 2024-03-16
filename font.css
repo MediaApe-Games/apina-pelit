@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('./font/NotoSansArabic-VariableFont_wdth\,wght.ttf'), url('./font/NotoSansCanadianAboriginal-VariableFont_wght.ttf'), url('./font/NotoSansCherokee-VariableFont_wght.ttf'), 
+    url('./font/NotoSansCoptic-Regular.ttf'), url('./font/NotoSansCuneiform-Regular.ttf'), url('./font/NotoSansCypriot-Regular.ttf'), url('./font/NotoSansCyproMinoan-Regular.ttf'), url('./font/NotoSansDeseret-Regular.ttf'), 
+    url('./font/NotoSansEgyptianHieroglyphs-Regular.ttf'), url('./font/NotoSansEthiopic-VariableFont_wdth\,wght.ttf'), url('./font/NotoSansGeorgian-VariableFont_wdth\,wght.ttf'), url('./font/NotoSansGothic-Regular.ttf'),
+    url('./font/NotoSansJP-VariableFont_wght.ttf'), url('./font/NotoSansKannada-VariableFont_wdth\,wght.ttf'), url('./font/NotoSansKawi-VariableFont_wght.ttf'), url('./font/NotoSansKhojki-Regular.ttf'), url('./font/NotoSansKR-VariableFont_wght.ttf'), 
+    url('./font/NotoSansLinearA-Regular.ttf'), url('./font/NotoSansMongolian-Regular.ttf'), url('./font/NotoSansNKo-Regular.ttf'), url('./font/NotoSansOgham-Regular.ttf'), url('./font/NotoSansOldItalic-Regular.ttf'),
+    url('./font/NotoSansPhagsPa-Regular.ttf'), url('./font/NotoSansPhoenician-Regular.ttf'), url('./font/NotoSansRunic-Regular.ttf'), url('./font/NotoSansShavian-Regular.ttf'), url('./font/NotoSansTagalog-Regular.ttf'),
+    url('./font/NotoSansTC-VariableFont_wght.ttf'), url('./font/NotoSansTelugu-VariableFont_wdth\,wght.ttf'), url('./font/NotoSansThai-VariableFont_wdth\,wght.ttf'), url('./font/NotoSansYi-Regular.ttf'),
+    url('./font/NotoSansHebrew-VariableFont_wdth\,wght.ttf');
+}
