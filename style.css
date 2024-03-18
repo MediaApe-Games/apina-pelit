@@ -1,4 +1,4 @@
-@import url('font/font.css');
+@import url('font.css');
 
 body {
     background-color: #1f1f1f;
@@ -11,8 +11,9 @@ a {
 }
 
 #content {
-    font-family: unifont;
+    font-family: 'Noto Sans';
     font-size: 13.5pt;
+    padding: 5px;
 }
 
 #signup {
@@ -38,7 +39,7 @@ a {
 }
 
 input {
-    font-family: unifont;
+    font-family: 'Noto Sans';
     font-size: 13.5pt;
     background-color: #fef;
 }
