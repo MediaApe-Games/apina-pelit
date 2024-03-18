@@ -1,5 +1,6 @@
 @font-face {
     font-family: 'Noto Sans';
+    src: url('./font/NotoSans-VariableFont_wdth\,wght.ttf');
     src: url('./font/NotoSansArabic-VariableFont_wdth\,wght.ttf');
     src: url('./font/NotoSansCanadianAboriginal-VariableFont_wght.ttf'); 
     src: url('./font/NotoSansCherokee-VariableFont_wght.ttf');
